@@ -1,0 +1,18 @@
+.About{
+    display: flex;
+}
+.left{
+    display: flexbox;
+    justify-self:center;
+    align-items: center;
+}
+.left button{
+    padding: 8px 15px;
+    /* margin: 15px 0; */
+    border: 2px solid rgb(235, 230, 230);
+    font-size: small;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    
+}

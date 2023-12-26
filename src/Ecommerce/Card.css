@@ -1,0 +1,28 @@
+.card{
+    height: 500px;
+    width: 320px;
+    border: 2px solid rgb(7, 7, 7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* background-color: black; */
+    color:black;
+    border-radius: 10px;
+    /* background-color: salmon; */
+    
+
+}
+img{
+    margin-top: 5px ;
+}
+.card button{
+    padding: 8px 15px;
+    /* margin: 15px 0; */
+    border: 2px solid rgb(235, 230, 230);
+    font-size: small;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    
+}
